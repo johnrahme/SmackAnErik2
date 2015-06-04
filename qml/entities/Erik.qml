@@ -14,7 +14,7 @@ EntityBase{
 
     MultiResolutionImage{
         id: sprite
-        source: "../../assets/img/balloon.png"
+        source: "../../assets/img/Erik_Cut.jpg"
         anchors.centerIn: parent
     }
     MultiPointTouchArea{
